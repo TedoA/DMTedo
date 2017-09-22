@@ -10,4 +10,4 @@ Quand soudain une flutte vint à sa rencontre.
 Après cette rencontre, le violon ne fut plus seul, la flutte resta à ses côtés tout les jours.
 Puis un beau jour des bébés intruments firent leur apparition.
 Le lendemain il essaye des choses sur git et ça tourne mal.
-Pas si mal finalement car il n'y eu pas de conflit.
+Il essaye par la suite de créer un conflit.
